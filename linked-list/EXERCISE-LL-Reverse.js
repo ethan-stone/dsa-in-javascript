@@ -165,6 +165,7 @@ class LinkedList {
       prevNode = currentNode;
       currentNode = nextNode;
     }
+
     return this;
   }
 
